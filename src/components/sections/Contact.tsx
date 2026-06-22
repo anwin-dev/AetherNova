@@ -92,8 +92,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h5 className="text-white font-medium mb-1">Email Us</h5>
-                    <p className="text-muted-text">hello@aethernova.com</p>
-                    <p className="text-muted-text">support@aethernova.com</p>
+                    <p className="text-muted-text">anwin7x@gmail.com.com</p>
+                    {/* <p className="text-muted-text">support@aethernova.com</p> */}
                   </div>
                 </div>
                 
@@ -103,12 +103,12 @@ export default function Contact() {
                   </div>
                   <div>
                     <h5 className="text-white font-medium mb-1">Call Us</h5>
-                    <p className="text-muted-text">+1 (555) 123-4567</p>
-                    <p className="text-muted-text">+1 (555) 987-6543</p>
+                    <p className="text-muted-text">+91 8086136588</p>
+                    <p className="text-muted-text">+91 7736986480</p>
                   </div>
                 </div>
                 
-                <div className="flex items-start gap-4">
+                {/* <div className="flex items-start gap-4">
                   <div className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
                     <HiOutlineLocationMarker className="text-white text-2xl" />
                   </div>
@@ -116,7 +116,7 @@ export default function Contact() {
                     <h5 className="text-white font-medium mb-1">Visit Us</h5>
                     <p className="text-muted-text">123 Innovation Drive,<br/>Tech City, TC 90210</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </motion.div>

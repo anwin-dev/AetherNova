@@ -4,13 +4,13 @@ import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
-  {
-    title: "Kaffa Maali Tea Shop",
-    url: "https://kaffa-maali-tea-shop-yjna.vercel.app/",
-    desc: "Modern tea shop website with elegant design and responsive experience.",
-    tech: ["React", "Tailwind CSS", "Framer Motion"],
-    image: "https://images.unsplash.com/photo-1576092762791-dd9e2220afa1?auto=format&fit=crop&w=800&q=80",
-  },
+  // {
+  //   title: "Kaffa Maali Tea Shop",
+  //   url: "https://kaffa-maali-tea-shop-yjna.vercel.app/",
+  //   desc: "Modern tea shop website with elegant design and responsive experience.",
+  //   tech: ["React", "Tailwind CSS", "Framer Motion"],
+  //   image: "https://images.unsplash.com/photo-1576092762791-dd9e2220afa1?auto=format&fit=crop&w=800&q=80",
+  // },
   {
     title: "Sole Vibe Shoe Shop",
     url: "https://sole-vibe-shoe-shop.vercel.app/",
