@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function WhatsAppButton() {
-  const phoneNumber = "1234567890"; // Placeholder, could be configured
+  const phoneNumber = "8086136588"; // Placeholder, could be configured
   const message = "Hello AetherNova Technologies, I would like to discuss my project.";
   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
